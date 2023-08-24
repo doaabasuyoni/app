@@ -1,0 +1,30 @@
+book_id:1
+title:Enter title
+author:Enter Author
+quantity:666
+isbn:1244667
+publisher:Enter Publisher
+total_pages:543
+rating:7.8
+published_date:33/4/2000
+-----------------------------
+book_id:2
+title:Enter title
+author:Enter Author
+quantity:88
+isbn:23456
+publisher:Enter Publisher
+total_pages:987
+rating:5.7
+published_date:22/3/2000
+-----------------------------
+book_id:3
+title:Ahmed
+author:mohammed
+quantity:67
+isbn:34567
+publisher:nhj
+total_pages:765
+rating:7.4
+published_date:22/11/2000
+-----------------------------
